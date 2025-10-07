@@ -1,6 +1,6 @@
 # Harness FME Feature Flag Report Generator
 
-A Python script to generate comprehensive reports on feature flags from Harness FME (Feature Management Engine).
+A Python script to generate comprehensive reports on feature flags from Harness FME.
 
 ## Requirements
 
